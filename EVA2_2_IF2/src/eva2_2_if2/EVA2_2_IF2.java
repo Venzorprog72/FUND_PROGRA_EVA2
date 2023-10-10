@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author frias
+ * @author venzor
  */
 public class EVA2_2_IF2 {
 
